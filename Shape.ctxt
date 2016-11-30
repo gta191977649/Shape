@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ area()
+comment0.text=\r\n\ area\ -\ calculates\ the\ area\ of\ a\ shape\ using\ class\ attributes\r\n\ \ \ \ \ \ -\ returns\ the\ calculated\ area\ as\ a\ double\r\n
+comment1.params=
+comment1.target=double\ perimeter()
+comment1.text=\r\n\ perimeter\ -\ calculates\ the\ perimeter\ of\ a\ shape\ using\ class\ attributes\r\n\ \ \ \ \ \ \ \ \ \ \ -\ returns\ the\ calculated\ perimeter\ as\ a\ double\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=Circle(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment1.params=
+comment1.target=double\ area()
+comment1.text=\r\n\ area\ -\ calculate\ the\ area\ of\ a\ Circle\r\n
+comment2.params=
+comment2.target=double\ perimeter()
+comment2.text=\r\n\ perimeter\ -\ calculate\ the\ perimeter\ of\ a\ Circle\r\n
+numComments=3

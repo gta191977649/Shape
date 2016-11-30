@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=length\ width
+comment0.target=Rectangle(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment1.params=
+comment1.target=double\ area()
+comment1.text=\r\n\ area\ -\ calculate\ the\ area\ of\ a\ rectangle\r\n
+comment2.params=
+comment2.target=double\ perimeter()
+comment2.text=\r\n\ perimeter\ -\ calculate\ the\ perimeter\ of\ a\ rectangle\r\n
+numComments=3

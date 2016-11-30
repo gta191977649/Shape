@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shapes()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Shapes\r\n
+comment1.params=
+comment1.target=void\ listProperties()
+comment1.text=\r\n\ listProperties\ -\ prints\ the\ area\ and\ perimeter\ of\ each\ shape\ in\ the\ list\r\n\ \r\n
+numComments=2
